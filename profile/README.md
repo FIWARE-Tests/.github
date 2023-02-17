@@ -4,7 +4,7 @@
 Welcome to FIWARE Testing</h1>
 <h3>These are Testing repos, and  may not be the FIWARE repos you are looking for</h2><br>
   <p>
-   <b>FIWARE</b> is an open standards for context data management. This is the <b>FIWARE Testing</b> account which hosts a variety of 
+   <b>FIWARE</b> is an open standard for context data management. This is the <b>FIWARE Testing</b> account which hosts a variety of 
     quality assurance and testing tools.
     The main <b>FIWARE</b> GitHub account targeted at software developers can be found <a href="https://github.com/FIWARE">here</a>.
   </p>
